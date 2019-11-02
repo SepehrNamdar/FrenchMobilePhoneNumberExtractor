@@ -1,6 +1,5 @@
 /.idea/*
-/FrenchMobilePhoneNumberExtractor.iml
+/*.iml
 /out/*
 /result.txt
 /src/META-INF/MANIFEST.MF
-/MobilePhoneNumberExtractor.iml
